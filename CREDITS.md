@@ -10,3 +10,7 @@
   + [Ruby Gem Repo](https://github.com/data-creative/law-school-outcomes-ruby/)
   + [Ruby Playground Repo](https://github.com/s2t2/law-school-outcomes-api)
   + [Python Repo](https://github.com/data-creative/law-schools-py)
+
+## School Reporting Information
+
+  + [UNT Dallas](https://lawschool.untsystem.edu/about/employment-outcomes)

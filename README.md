@@ -6,9 +6,15 @@ An archive of Employment Summary Reports for law schools accredited by the [Amer
 
 ### Data Transformations
 
+Contains the results of manual and programmatic efforts to synthesize and transform raw source data into more usable formats.
+
+#### `db/`
+
+Contains CSV files for database consumption.
+
 #### `api/`
 
-Contains the results of manual and programmatic efforts to synthesize and transform raw source data into more usable formats.
+Contains JSON files for client consumption.
 
 ### Original Data Sources
 
