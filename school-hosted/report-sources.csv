@@ -6,13 +6,13 @@ school_uuid,school_name,school_url,reporting_year,search_term,report_url,downloa
 114,AKRON,http://www.uakron.edu/law,2012,AKRON EMPLOYMENT SUMMARY FOR 2012 GRADUATES,https://www.uakron.edu/law/docs/EmploymentSummary-2013[2].pdf,2017-09-08,Found from index page: https://www.uakron.edu/law/admissions/employment-statistics.dot.
 114,AKRON,http://www.uakron.edu/law,2011,AKRON EMPLOYMENT SUMMARY FOR 2011 GRADUATES,https://www.uakron.edu/law/docs/EmploymentSummary-2012[1].pdf,2017-09-08,Found from index page: https://www.uakron.edu/law/admissions/employment-statistics.dot.
 114,AKRON,http://www.uakron.edu/law,2010,AKRON EMPLOYMENT SUMMARY FOR 2010 GRADUATES,N/A,N/A,Not found on index page: https://www.uakron.edu/law/admissions/employment-statistics.dot.
-2,ALABAMA,http://www.law.ua.edu/,2016,ALABAMA EMPLOYMENT SUMMARY FOR 2016 GRADUATES,,,
-2,ALABAMA,http://www.law.ua.edu/,2015,ALABAMA EMPLOYMENT SUMMARY FOR 2015 GRADUATES,,,
-2,ALABAMA,http://www.law.ua.edu/,2014,ALABAMA EMPLOYMENT SUMMARY FOR 2014 GRADUATES,,,
-2,ALABAMA,http://www.law.ua.edu/,2013,ALABAMA EMPLOYMENT SUMMARY FOR 2013 GRADUATES,,,
-2,ALABAMA,http://www.law.ua.edu/,2012,ALABAMA EMPLOYMENT SUMMARY FOR 2012 GRADUATES,,,
-2,ALABAMA,http://www.law.ua.edu/,2011,ALABAMA EMPLOYMENT SUMMARY FOR 2011 GRADUATES,,,
-2,ALABAMA,http://www.law.ua.edu/,2010,ALABAMA EMPLOYMENT SUMMARY FOR 2010 GRADUATES,,,
+2,ALABAMA,http://www.law.ua.edu/,2016,ALABAMA EMPLOYMENT SUMMARY FOR 2016 GRADUATES,https://www.law.ua.edu/wp-content/uploads/ABA-2016-Employment-Final.pdf,2017-09-08,Found on index page: https://www.law.ua.edu/admissions/aba-required-disclosures/.
+2,ALABAMA,http://www.law.ua.edu/,2015,ALABAMA EMPLOYMENT SUMMARY FOR 2015 GRADUATES,https://www.law.ua.edu/wp-content/uploads/2015-ABA-Placement-Summary.pdf,2017-09-08,Found on index page: https://www.law.ua.edu/admissions/aba-required-disclosures/.
+2,ALABAMA,http://www.law.ua.edu/,2014,ALABAMA EMPLOYMENT SUMMARY FOR 2014 GRADUATES,https://www.law.ua.edu/wp-content/uploads/2014-ABA-Placement-Summary.pdf,2017-09-08,Found on index page: https://www.law.ua.edu/admissions/aba-required-disclosures/.
+2,ALABAMA,http://www.law.ua.edu/,2013,ALABAMA EMPLOYMENT SUMMARY FOR 2013 GRADUATES,https://www.law.ua.edu/wp-content/uploads/2013-ABA-Placement-Summary.pdf,2017-09-08,Found on index page: https://www.law.ua.edu/admissions/aba-required-disclosures/.
+2,ALABAMA,http://www.law.ua.edu/,2012,ALABAMA EMPLOYMENT SUMMARY FOR 2012 GRADUATES,https://www.law.ua.edu/wp-content/uploads/2012-ABA-Placement-Summary.pdf,2017-09-08,Found on index page: https://www.law.ua.edu/admissions/aba-required-disclosures/.
+2,ALABAMA,http://www.law.ua.edu/,2011,ALABAMA EMPLOYMENT SUMMARY FOR 2011 GRADUATES,N/A,N/A,Not found on index page: https://www.law.ua.edu/admissions/aba-required-disclosures/.
+2,ALABAMA,http://www.law.ua.edu/,2010,ALABAMA EMPLOYMENT SUMMARY FOR 2010 GRADUATES,N/A,N/A,Not found on index page: https://www.law.ua.edu/admissions/aba-required-disclosures/.
 97,ALBANY,http://www.albanylaw.edu/,2016,ALBANY EMPLOYMENT SUMMARY FOR 2016 GRADUATES,,,
 97,ALBANY,http://www.albanylaw.edu/,2015,ALBANY EMPLOYMENT SUMMARY FOR 2015 GRADUATES,,,
 97,ALBANY,http://www.albanylaw.edu/,2014,ALBANY EMPLOYMENT SUMMARY FOR 2014 GRADUATES,,,
