@@ -32,7 +32,6 @@ uuid,alt_name,name,year_founded,url,search_term,reports_index
 29,CATHOLIC UNIVERSITY OF AMERICA,CATHOLIC UNIVERSITY OF AMERICA,1925,www.law.edu,,http://www.law.edu/abaconsumerinformation.cfm
 186,CHAPMAN UNIVERSITY,CHAPMAN,1998,http://www.chapman.edu/law/,,https://www.chapman.edu/law/careers/employment-statistics.aspx
 201,CHARLESTON SCHOOL OF LAW,CHARLESTON,2006,http://www.charlestonlaw.org/,,http://charlestonlaw.edu/prospective-students/aba-required-disclosures/employment-summary-reports/
-206,CHARLOTTE SCHOOL OF LAW,CHARLOTTE,2008,http://www.charlottelaw.edu/,,N/A
 50,"CHICAGO, UNIVERSITY OF",CHICAGO,1923,http://www.law.uchicago.edu/,,https://www.law.uchicago.edu/students/careerservices/employmentsummaryreports
 45,CHICAGO-KENT COLLEGE OF LAW-IIT,CHICAGO-KENT,1936,http://www.kentlaw.edu/,,http://www.kentlaw.iit.edu/career-preparation/employment-outcomes
 115,"CINCINNATI, UNIVERSITY OF",CINCINNATI,1923,http://www.law.uc.edu/,,https://www.law.uc.edu/employment-statistics
@@ -44,70 +43,70 @@ uuid,alt_name,name,year_founded,url,search_term,reports_index
 24,"CONNECTICUT, UNIVERSITY OF",CONNECTICUT,1933,http://www.law.uconn.edu/,,https://www.law.uconn.edu/admissions/aba-required-disclosures
 99,CORNELL UNIVERSITY,CORNELL,1923,http://www.lawschool.cornell.edu/,,http://www.lawschool.cornell.edu/careers/aboutus/statistics.cfm
 91,CREIGHTON UNIVERSITY,CREIGHTON,1924,http://law.creighton.edu/,,https://law.creighton.edu/career-development/employment-statistics
-121,"DAYTON, UNIVERSITY OF",DAYTON,1975,http://law.udayton.edu/,DAYTON LAW ABA Standard Employment Statistics,
-23,"DENVER, UNIVERSITY OF",DENVER,1923,http://www.law.du.edu/,DENVER LAW ABA Standard Employment Statistics,
-46,DEPAUL UNIVERSITY,DEPAUL,1925,http://www.law.depaul.edu/,DEPAUL LAW ABA Standard Employment Statistics,
-78,"DETROIT MERCY, UNIVERSITY OF",DETROIT MERCY,1933,http://www.law.udmercy.edu/,DETROIT MERCY LAW ABA Standard Employment Statistics,
-180,DISTRICT OF COLUMBIA,DISTRICT OF COLUMBIA,1991,http://www.law.udc.edu/,DISTRICT OF COLUMBIA LAW ABA Standard Employment Statistics,
-55,DRAKE UNIVERSITY,DRAKE,1923,http://www.law.drake.edu/,DRAKE LAW ABA Standard Employment Statistics,
-207,DREXEL UNIVERSITY,DREXEL,2008,http://www.drexel.edu/law/,DREXEL LAW ABA Standard Employment Statistics,
-109,DUKE UNIVERSITY,DUKE,1931,http://www.law.duke.edu/,DUKE LAW ABA Standard Employment Statistics,
-131,DUQUESNE UNIVERSITY,DUQUESNE,1960,http://www.law.duq.edu/,DUQUESNE LAW ABA Standard Employment Statistics,
-205,ELON UNIVERSITY,ELON,2008,http://www.elon.edu/e-web/law,ELON LAW ABA Standard Employment Statistics,
-39,EMORY UNIVERSITY,EMORY,1923,http://www.law.emory.edu/,EMORY LAW ABA Standard Employment Statistics,
-200,FAULKNER UNIVERSITY,FAULKNER,2006,http://www.faulkner.edu/jsl/,FAULKNER LAW ABA Standard Employment Statistics,
-34,"FLORIDA, UNIVERSITY OF",FLORIDA,1925,http://www.law.ufl.edu/,FLORIDA LAW ABA Standard Employment Statistics,
-195,FLORIDA A&M UNIVERSITY,FLORIDA A&M,2004,http://law.famu.edu/,FLORIDA A&M LAW ABA Standard Employment Statistics,
-189,FLORIDA COASTAL SCHOOL OF LAW,FLORIDA COASTAL,1999,http://www.fcsl.edu/,FLORIDA COASTAL LAW ABA Standard Employment Statistics,
-196,FLORIDA INTERNATIONAL UNIVERSITY,FLORIDA INTERNATIONAL,2004,http://law.fiu.edu/,FLORIDA INTERNATIONAL LAW ABA Standard Employment Statistics,
-36,FLORIDA STATE UNIVERSITY,FLORIDA STATE,1968,http://www.law.fsu.edu/,FLORIDA STATE LAW ABA Standard Employment Statistics,
-102,FORDHAM UNIVERSITY,FORDHAM,1936,http://law.fordham.edu,FORDHAM LAW ABA Standard Employment Statistics,
-171,GEORGE MASON UNIVERSITY,GEORGE MASON,1980,http://www.law.gmu.edu/,GEORGE MASON LAW ABA Standard Employment Statistics,
-31,GEORGE WASHINGTON UNIVERSITY,GEORGE WASHINGTON,1923,http://www.law.gwu.edu/,GEORGE WASHINGTON LAW ABA Standard Employment Statistics,
-30,GEORGETOWN UNIVERSITY,GEORGETOWN,1924,http://www.law.georgetown.edu/,GEORGETOWN LAW ABA Standard Employment Statistics,
-38,"GEORGIA, UNIVERSITY OF",GEORGIA,1930,http://www.law.uga.edu/,GEORGIA LAW ABA Standard Employment Statistics,
-175,GEORGIA STATE UNIVERSITY,GEORGIA STATE,1984,http://law.gsu.edu/,GEORGIA STATE LAW ABA Standard Employment Statistics,
-17,GOLDEN GATE UNIVERSITY,GOLDEN GATE,1956,http://www.ggu.edu/law,GOLDEN GATE LAW ABA Standard Employment Statistics,
-159,GONZAGA UNIVERSITY,GONZAGA,1951,http://www.law.gonzaga.edu/,GONZAGA LAW ABA Standard Employment Statistics,
-74,HARVARD UNIVERSITY,HARVARD,1923,http://www.law.harvard.edu/,HARVARD LAW ABA Standard Employment Statistics,
-41,"HAWAII, UNIVERSITY OF",HAWAII,1974,http://www.law.hawaii.edu/,HAWAII LAW ABA Standard Employment Statistics,
-103,HOFSTRA UNIVERSITY,HOFSTRA,1971,http://www.hofstra.edu/law,HOFSTRA LAW ABA Standard Employment Statistics,
-144,"HOUSTON, UNIVERSITY OF",HOUSTON,1950,http://www.law.uh.edu/,HOUSTON LAW ABA Standard Employment Statistics,
-32,HOWARD UNIVERSITY,HOWARD,1931,http://www.law.howard.edu/,HOWARD LAW ABA Standard Employment Statistics,
-42,"IDAHO, UNIVERSITY OF",IDAHO,1925,http://www.uidaho.edu/law/,IDAHO LAW ABA Standard Employment Statistics,
-44,"ILLINOIS, UNIVERSITY OF",ILLINOIS,1923,http://www.law.uiuc.edu/,ILLINOIS LAW ABA Standard Employment Statistics,
-51,INDIANA UNIVERSITY - BLOOMINGTON,INDIANA - BLOOMINGTON,1937,http://www.law.indiana.edu/,INDIANA - BLOOMINGTON LAW ABA Standard Employment Statistics,
-52,INDIANA UNIVERSITY - INDIANAPOLIS,INDIANA UNIVERSITY - INDIANAPOLIS,1944,http://www.mckinneylaw.iu.edu,INDIANA UNIVERSITY - INDIANAPOLIS LAW ABA Standard Employment Statistics,
-134,INTER AMERICAN UNIVERSITY OF PUERTO RICO,INTER-AMERICAN,1969,http://www.derecho.inter.edu/,INTER-AMERICAN LAW ABA Standard Employment Statistics,
-56,"IOWA, UNIVERSITY OF",IOWA,1923,http://www.law.uiowa.edu/,IOWA LAW ABA Standard Employment Statistics,
-57,"KANSAS, UNIVERSITY OF",KANSAS,1923,http://www.law.ku.edu/,KANSAS LAW ABA Standard Employment Statistics,
-60,"KENTUCKY, UNIVERSITY OF",KENTUCKY,1925,http://www.uky.edu/Law/,KENTUCKY LAW ABA Standard Employment Statistics,
-198,UNIVERSITY OF LA VERNE,LA VERNE,2012,http://law.laverne.edu/,LA VERNE LAW ABA Standard Employment Statistics,
-126,LEWIS AND CLARK COLLEGE,LEWIS AND CLARK,1970,http://law.lclark.edu,LEWIS AND CLARK LAW ABA Standard Employment Statistics,
-199,LIBERTY UNIVERSITY,LIBERTY,2006,http://law.liberty.edu/,LIBERTY LAW ABA Standard Employment Statistics,
-215,LINCOLN MEMORIAL,LINCOLN MEMORIAL,2014,http://law.lmunet.edu/,LINCOLN MEMORIAL LAW ABA Standard Employment Statistics,
-62,LOUISIANA STATE UNIVERSITY,LOUISIANA STATE,1926,http://www.law.lsu.edu/,LOUISIANA STATE LAW ABA Standard Employment Statistics,
-61,"LOUISVILLE, UNIVERSITY OF",LOUISVILLE,1931,http://www.law.louisville.edu/,LOUISVILLE LAW ABA Standard Employment Statistics,
-48,LOYOLA UNIVERSITY-CHICAGO,LOYOLA - CHICAGO,1925,http://www.luc.edu/law/,LOYOLA - CHICAGO LAW ABA Standard Employment Statistics,
-10,LOYOLA MARYMOUNT UNIVERSITY-LOS ANGELES,LOYOLA - LOS ANGELES,1935,http://www.lls.edu/,LOYOLA - LOS ANGELES LAW ABA Standard Employment Statistics,
-64,LOYOLA UNIVERSITY-NEW ORLEANS,LOYOLA - NEW ORLEANS,1931,http://www.loyno.edu/law,LOYOLA - NEW ORLEANS LAW ABA Standard Employment Statistics,
-66,"MAINE, UNIVERSITY OF",MAINE,1962,http://mainelaw.maine.edu/,MAINE LAW ABA Standard Employment Statistics,
-163,MARQUETTE UNIVERSITY,MARQUETTE,1925,http://www.mu.edu/dept/law,MARQUETTE LAW ABA Standard Employment Statistics,
-68,"MARYLAND, UNIVERSITY OF",MARYLAND,1930,http://www.law.umaryland.edu/,MARYLAND LAW ABA Standard Employment Statistics,
-216,UNIVERSITY OF MASSACHUSETTS DARTMOUTH,MASSACHUSETTS,2012,http://www.umassd.edu/law/,MASSACHUSETTS LAW ABA Standard Employment Statistics,
-13,MCGEORGE SCHOOL OF LAW,MCGEORGE,1969,http://www.mcgeorge.edu/,MCGEORGE LAW ABA Standard Employment Statistics,
-140,"MEMPHIS, UNIVERSITY OF",MEMPHIS,1965,http://www.memphis.edu/law/,MEMPHIS LAW ABA Standard Employment Statistics,
-40,MERCER UNIVERSITY,MERCER,1925,http://www.law.mercer.edu/,MERCER LAW ABA Standard Employment Statistics,
-33,"MIAMI, UNIVERSITY OF",MIAMI,1941,http://www.law.miami.edu/,MIAMI LAW ABA Standard Employment Statistics,
-76,"MICHIGAN, UNIVERSITY OF",MICHIGAN,1923,http://www.law.umich.edu/,MICHIGAN LAW ABA Standard Employment Statistics,
-77,MICHIGAN STATE UNIVERSITY,MICHIGAN STATE,1941,http://www.law.msu.edu/,MICHIGAN STATE LAW ABA Standard Employment Statistics,
-81,"MINNESOTA, UNIVERSITY OF",MINNESOTA,1923,http://www.law.umn.edu/,MINNESOTA LAW ABA Standard Employment Statistics,
-84,"MISSISSIPPI, UNIVERSITY OF",MISSISSIPPI,1930,http://www.law.olemiss.edu/,MISSISSIPPI LAW ABA Standard Employment Statistics,
-172,MISSISSIPPI COLLEGE,MISSISSIPPI COLLEGE,1980,http://law.mc.edu/,MISSISSIPPI COLLEGE LAW ABA Standard Employment Statistics,
-85,"MISSOURI, UNIVERSITY OF",MISSOURI,1923,http://www.law.missouri.edu/,MISSOURI LAW ABA Standard Employment Statistics,
-86,"MISSOURI-KANSAS CITY, UNIVERSITY OF",MISSOURI - KANSAS CITY,1936,http://www.law.umkc.edu/,MISSOURI - KANSAS CITY LAW ABA Standard Employment Statistics,
-226,MITCHELL|HAMLINE,MITCHELL|HAMLINE,2015,http://mitchellhamline.edu/,MITCHELL|HAMLINE LAW ABA Standard Employment Statistics,
-89,"MONTANA, UNIVERSITY OF",MONTANA,1923,http://www.umt.edu/law,MONTANA LAW ABA Standard Employment Statistics,
+121,"DAYTON, UNIVERSITY OF",DAYTON,1975,http://law.udayton.edu/,,https://udayton.edu/law/career_services/employment_stats_aba-summary.php
+23,"DENVER, UNIVERSITY OF",DENVER,1923,http://www.law.du.edu/,,http://www.law.du.edu/index.php/career-development-and-opportunities/employment-statistics
+46,DEPAUL UNIVERSITY,DEPAUL,1925,http://www.law.depaul.edu/,,https://law.depaul.edu/career-services/employment-data/Pages/default.aspx
+78,"DETROIT MERCY, UNIVERSITY OF",DETROIT MERCY,1933,http://www.law.udmercy.edu/,,http://www.law.udmercy.edu/career-services/employment-statistics.php
+180,DISTRICT OF COLUMBIA,DISTRICT OF COLUMBIA,1991,http://www.law.udc.edu/,,http://www.law.udc.edu/page/EmploymentStatistics
+55,DRAKE UNIVERSITY,DRAKE,1923,http://www.law.drake.edu/,,http://www.drake.edu/law/careers/stats/
+207,DREXEL UNIVERSITY,DREXEL,2008,http://www.drexel.edu/law/,,http://drexel.edu/law/studentLife/careers/employment-outcomes/
+109,DUKE UNIVERSITY,DUKE,1931,http://www.law.duke.edu/,,https://law.duke.edu/career/employmentdata/
+131,DUQUESNE UNIVERSITY,DUQUESNE,1960,http://www.law.duq.edu/,,http://law.duq.edu/career-services/employment-statistics
+205,ELON UNIVERSITY,ELON,2008,http://www.elon.edu/e-web/law,,https://www.elon.edu/e/law/professional-development/employment-statistics.html
+39,EMORY UNIVERSITY,EMORY,1923,http://www.law.emory.edu/,,http://law.emory.edu/about/aba-required-disclosures.html
+200,FAULKNER UNIVERSITY,FAULKNER,2006,http://www.faulkner.edu/jsl/,,https://www.faulkner.edu/law/faulkner-law-career-development/employment-statistics/
+34,"FLORIDA, UNIVERSITY OF",FLORIDA,1925,http://www.law.ufl.edu/,,https://www.law.ufl.edu/your-future/employment-statistics
+195,FLORIDA A&M UNIVERSITY,FLORIDA A&M,2004,http://law.famu.edu/,,http://law.famu.edu/prospective-student/employment-summary-reports/
+189,FLORIDA COASTAL SCHOOL OF LAW,FLORIDA COASTAL,1999,http://www.fcsl.edu/,,https://www.fcsl.edu/gainful-employment-and-aba-required-disclosures.html
+196,FLORIDA INTERNATIONAL UNIVERSITY,FLORIDA INTERNATIONAL,2004,http://law.fiu.edu/,,N/A
+36,FLORIDA STATE UNIVERSITY,FLORIDA STATE,1968,http://www.law.fsu.edu/,,http://www.law.fsu.edu/aba-required-disclosures
+102,FORDHAM UNIVERSITY,FORDHAM,1936,http://law.fordham.edu,,https://www.fordham.edu/info/22555/employment_statistics
+171,GEORGE MASON UNIVERSITY,GEORGE MASON,1980,http://www.law.gmu.edu/,,https://www.law.gmu.edu/career/employment_information
+31,GEORGE WASHINGTON UNIVERSITY,GEORGE WASHINGTON,1923,http://www.law.gwu.edu/,,https://www.law.gwu.edu/bar-passage-rates-and-employment-statistics
+30,GEORGETOWN UNIVERSITY,GEORGETOWN,1924,http://www.law.georgetown.edu/,,https://www.law.georgetown.edu/careers/employment-data.cfm
+38,"GEORGIA, UNIVERSITY OF",GEORGIA,1930,http://www.law.uga.edu/,,http://www.law.uga.edu/university-georgia-school-law-employment-statistics
+175,GEORGIA STATE UNIVERSITY,GEORGIA STATE,1984,http://law.gsu.edu/,,http://law.gsu.edu/employment-outcomes-2/
+17,GOLDEN GATE UNIVERSITY,GOLDEN GATE,1956,http://www.ggu.edu/law,,http://law.ggu.edu/career-development/employment-statistics/
+159,GONZAGA UNIVERSITY,GONZAGA,1951,http://www.law.gonzaga.edu/,,https://www.law.gonzaga.edu/professional-development/employment-statistics/
+74,HARVARD UNIVERSITY,HARVARD,1923,http://www.law.harvard.edu/,,http://hls.harvard.edu/about/aba-standard-509-required-disclosures/
+41,"HAWAII, UNIVERSITY OF",HAWAII,1974,http://www.law.hawaii.edu/,,https://www.law.hawaii.edu/employment-statistics
+103,HOFSTRA UNIVERSITY,HOFSTRA,1971,http://www.hofstra.edu/law,,https://law.hofstra.edu/jdprogram/abarequireddisclosures/index.html
+144,"HOUSTON, UNIVERSITY OF",HOUSTON,1950,http://www.law.uh.edu/,,http://www.law.uh.edu/admissions/consumer-information.asp
+32,HOWARD UNIVERSITY,HOWARD,1931,http://www.law.howard.edu/,,http://law.howard.edu/content/employment-and-placement-statistics
+42,"IDAHO, UNIVERSITY OF",IDAHO,1925,http://www.uidaho.edu/law/,,https://www.uidaho.edu/law/career-development/employment-statistics
+44,"ILLINOIS, UNIVERSITY OF",ILLINOIS,1923,http://www.law.uiuc.edu/,,https://law.illinois.edu/about/college-profile/aba-disclosures/
+51,INDIANA UNIVERSITY - BLOOMINGTON,INDIANA - BLOOMINGTON,1937,http://www.law.indiana.edu/,,http://www.law.indiana.edu/about/aba-and-nalp-employment.shtml
+52,INDIANA UNIVERSITY - INDIANAPOLIS,INDIANA UNIVERSITY - INDIANAPOLIS,1944,http://www.mckinneylaw.iu.edu,,https://mckinneylaw.iu.edu/about/aba-disclosures.html
+134,INTER AMERICAN UNIVERSITY OF PUERTO RICO,INTER-AMERICAN,1969,http://www.derecho.inter.edu/,,N/A
+56,"IOWA, UNIVERSITY OF",IOWA,1923,http://www.law.uiowa.edu/,,https://law.uiowa.edu/aba-required-disclosures-and-other-disclosures
+57,"KANSAS, UNIVERSITY OF",KANSAS,1923,http://www.law.ku.edu/,,https://law.ku.edu/employment-statistics
+60,"KENTUCKY, UNIVERSITY OF",KENTUCKY,1925,http://www.uky.edu/Law/,,http://law.uky.edu/careers/employment-statistics-0
+198,UNIVERSITY OF LA VERNE,LA VERNE,2012,http://law.laverne.edu/,,http://law.laverne.edu/career-services/employment-statistics/
+126,LEWIS AND CLARK COLLEGE,LEWIS AND CLARK,1970,http://law.lclark.edu,,http://law.lclark.edu/offices/career_services/Stats/
+199,LIBERTY UNIVERSITY,LIBERTY,2006,http://law.liberty.edu/,,N/A
+215,LINCOLN MEMORIAL,LINCOLN MEMORIAL,2014,http://law.lmunet.edu/,,https://www.lmunet.edu/academics/schools/duncan-school-of-law/aba-required-disclosures
+62,LOUISIANA STATE UNIVERSITY,LOUISIANA STATE,1926,http://www.law.lsu.edu/,,https://www.law.lsu.edu/disclosures/
+61,"LOUISVILLE, UNIVERSITY OF",LOUISVILLE,1931,http://www.law.louisville.edu/,,https://louisville.edu/law/careers/employment-statistics
+48,LOYOLA UNIVERSITY-CHICAGO,LOYOLA - CHICAGO,1925,http://www.luc.edu/law/,,http://www.luc.edu/law/consumer_info/employment_data.html
+10,LOYOLA MARYMOUNT UNIVERSITY-LOS ANGELES,LOYOLA - LOS ANGELES,1935,http://www.lls.edu/,,http://www.lls.edu/careerdevelopmentoffice/foralumni/employmentstatistics/
+64,LOYOLA UNIVERSITY-NEW ORLEANS,LOYOLA - NEW ORLEANS,1931,http://www.loyno.edu/law,,http://law.loyno.edu/aba-standard-509-required-disclosures
+66,"MAINE, UNIVERSITY OF",MAINE,1962,http://mainelaw.maine.edu/,,http://mainelaw.maine.edu/aba-required-disclosures/
+163,MARQUETTE UNIVERSITY,MARQUETTE,1925,http://www.mu.edu/dept/law,,https://law.marquette.edu/career-planning/employment-statistics-recent-graduates
+68,"MARYLAND, UNIVERSITY OF",MARYLAND,1930,http://www.law.umaryland.edu/,,http://www.law.umaryland.edu/employers/statistics.html
+216,UNIVERSITY OF MASSACHUSETTS DARTMOUTH,MASSACHUSETTS,2012,http://www.umassd.edu/law/,,http://www.umassd.edu/law/admissions/aba-required-disclosures/
+13,MCGEORGE SCHOOL OF LAW,MCGEORGE,1969,http://www.mcgeorge.edu/,,http://www.mcgeorge.edu/Students/Career_Development_Office/Employment_Statistics.htm
+140,"MEMPHIS, UNIVERSITY OF",MEMPHIS,1965,http://www.memphis.edu/law/,,http://www.memphis.edu/law/about/abadisclosures.php
+40,MERCER UNIVERSITY,MERCER,1925,http://www.law.mercer.edu/,,https://law.mercer.edu/career/employment/
+33,"MIAMI, UNIVERSITY OF",MIAMI,1941,http://www.law.miami.edu/,,http://www.law.miami.edu/iml/careers/employment-data
+76,"MICHIGAN, UNIVERSITY OF",MICHIGAN,1923,http://www.law.umich.edu/,,https://www.law.umich.edu/aboutus/Pages/ABA-Required-Disclosures.aspx
+77,MICHIGAN STATE UNIVERSITY,MICHIGAN STATE,1941,http://www.law.msu.edu/,,https://www.law.msu.edu/careers/placement-rates.html
+81,"MINNESOTA, UNIVERSITY OF",MINNESOTA,1923,http://www.law.umn.edu/,,https://www.law.umn.edu/about/aba-required-disclosures
+84,"MISSISSIPPI, UNIVERSITY OF",MISSISSIPPI,1930,http://www.law.olemiss.edu/,,https://law.olemiss.edu/career-services/employment-statistics/
+172,MISSISSIPPI COLLEGE,MISSISSIPPI COLLEGE,1980,http://law.mc.edu/,,https://law.mc.edu/disclosures
+85,"MISSOURI, UNIVERSITY OF",MISSOURI,1923,http://www.law.missouri.edu/,,http://law.missouri.edu/careers/employment-statistics/
+86,"MISSOURI-KANSAS CITY, UNIVERSITY OF",MISSOURI - KANSAS CITY,1936,http://www.law.umkc.edu/,,N/A - Broken
+226,MITCHELL|HAMLINE,MITCHELL|HAMLINE,2015,http://mitchellhamline.edu/,,http://mitchellhamline.edu/careers/employment-and-salary-reports/
+89,"MONTANA, UNIVERSITY OF",MONTANA,1923,http://www.umt.edu/law,,https://www.umt.edu/law/careerservices/placement/default.php
 90,"NEBRASKA, UNIVERSITY OF",NEBRASKA,1923,http://law.unl.edu/,NEBRASKA LAW ABA Standard Employment Statistics,
 190,UNIVERSITY OF NEVADA - LAS VEGAS,NEVADA,2000,http://law.unlv.edu/,NEVADA LAW ABA Standard Employment Statistics,
 70,NEW ENGLAND LAW | BOSTON,NEW ENGLAND LAW | BOSTON,1969,http://www.nesl.edu/,NEW ENGLAND LAW | BOSTON LAW ABA Standard Employment Statistics,
