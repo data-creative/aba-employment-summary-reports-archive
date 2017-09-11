@@ -79,7 +79,7 @@ uuid,alt_name,name,year_founded,url,reports_index
 52,INDIANA UNIVERSITY - INDIANAPOLIS,INDIANA UNIVERSITY - INDIANAPOLIS,1944,http://www.mckinneylaw.iu.edu,https://mckinneylaw.iu.edu/about/aba-disclosures.html
 134,INTER AMERICAN UNIVERSITY OF PUERTO RICO,INTER-AMERICAN,1969,http://www.derecho.inter.edu/,N/A
 56,"IOWA, UNIVERSITY OF",IOWA,1923,http://www.law.uiowa.edu/,https://law.uiowa.edu/aba-required-disclosures-and-other-disclosures
-57,"KANSAS, UNIVERSITY OF",KANSAS,1923,http://www.law.ku.edu/,https://law.ku.edu/employment-statistics
+57,"KANSAS, UNIVERSITY OF",KANSAS,1923,http://www.law.ku.edu/,http://law.ku.edu/aba-standard-509-disclosures
 60,"KENTUCKY, UNIVERSITY OF",KENTUCKY,1925,http://www.uky.edu/Law/,http://law.uky.edu/careers/employment-statistics-0
 198,UNIVERSITY OF LA VERNE,LA VERNE,2012,http://law.laverne.edu/,http://law.laverne.edu/career-services/employment-statistics/
 126,LEWIS AND CLARK COLLEGE,LEWIS AND CLARK,1970,http://law.lclark.edu,http://law.lclark.edu/offices/career_services/Stats/
@@ -130,7 +130,7 @@ uuid,alt_name,name,year_founded,url,reports_index
 125,"OREGON, UNIVERSITY OF",OREGON,1923,http://www.law.uoregon.edu/,https://law.uoregon.edu/explore/aba-required-disclosures
 166,PACE UNIVERSITY,PACE,1978,http://www.law.pace.edu/,http://www.law.pace.edu/employment-data
 130,"PENNSYLVANIA, UNIVERSITY OF",PENNSYLVANIA,1923,http://www.law.upenn.edu/,https://www.law.upenn.edu/careers/aba-employment-summary.php
-219,PENNSYLVANIA STATE - DICKINSON LAW,PENNSYLVANIA STATE-DICKINSON LAW,1931,https://dickinsonlaw.psu.edu/,https://dickinsonlaw.psu.edu/admissions-aid/aba-required-disclosures
+219,PENNSYLVANIA STATE - DICKINSON LAW,PENNSYLVANIA STATE-DICKINSON LAW,1931,https://dickinsonlaw.psu.edu/,https://dickinsonlaw.psu.edu/career-planning/employment-statistics
 220,PENNSYLVANIA STATE - PENN STATE LAW,PENNSYLVANIA STATE-PENN STATE LAW,1931,http://pennstatelaw.psu.edu/,https://pennstatelaw.psu.edu/admissions/aba-required-disclosures
 19,PEPPERDINE UNIVERSITY,PEPPERDINE,1972,http://law.pepperdine.edu/,https://law.pepperdine.edu/admissions/aba-required-disclosures/
 132,"PITTSBURGH, UNIVERSITY OF",PITTSBURGH,1923,http://www.law.pitt.edu/,http://law.pitt.edu/careers/employment-data
@@ -154,7 +154,7 @@ uuid,alt_name,name,year_founded,url,reports_index
 12,"SOUTHERN CALIFORNIA, UNIVERSITY OF",SOUTHERN CALIFORNIA,1924,http://www.usc.edu/dept/law-lib/index.html,http://gould.usc.edu/careers/jd/students/statistics/
 43,SOUTHERN ILLINOIS UNIVERSITY-CARBONDALE,SOUTHERN ILLINOIS,1974,http://www.law.siu.edu/,http://www.law.siu.edu/aba-required-disclosures.html
 143,SOUTHERN METHODIST UNIVERSITY,SOUTHERN METHODIST,1927,http://www.law.smu.edu/,http://www.law.smu.edu/career-services/employment-data
-63,SOUTHERN UNIVERSITY,SOUTHERN UNIVERSITY,1953,http://www.sulc.edu/,https://www.law.lsu.edu/disclosures/
+63,SOUTHERN UNIVERSITY,SOUTHERN UNIVERSITY,1953,http://www.sulc.edu/,http://www.sulc.edu/employment-outcomes/
 11,SOUTHWESTERN LAW SCHOOL,SOUTHWESTERN,1970,http://www.swlaw.edu/,http://www.swlaw.edu/aba-required-disclosures
 106,ST. JOHN'S UNIVERSITY,ST. JOHN'S,1937,http://www.stjohns.edu/law,http://www.stjohns.edu/law/career-development/placement-data-law-graduates
 148,ST. MARY'S UNIVERSITY,ST. MARY'S,1948,http://www.stmarytx.edu/law,https://law.stmarytx.edu/disclosures/
