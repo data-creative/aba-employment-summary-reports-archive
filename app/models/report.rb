@@ -1,6 +1,4 @@
-require "active_support/core_ext/hash/keys"
-
-require_relative "has_url"
+require_relative "school"
 
 class Report
   include HasUrl
@@ -23,6 +21,10 @@ class Report
 
   def self.find(school:, class_of:)
     all.find{|report| report.school_uuid == school.uuid && report.class_of == class_of}
+  end
+
+  def school
+    School.all.find{|school| school.uuid == school_uuid}
   end
 
   def year

@@ -2,7 +2,6 @@ require_relative "models/school"
 require_relative "models/report"
 
 require "date"
-require "pry"
 
 #
 # READ FROM CSV

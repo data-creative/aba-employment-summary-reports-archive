@@ -1,4 +1,5 @@
 require "active_support/core_ext/hash/keys"
+require "csv"
 require "fileutils"
 require "httparty"
 
