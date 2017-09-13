@@ -1,8 +1,7 @@
-require "date"
-
 require_relative "models/school"
+require_relative "models/report"
 
-require "pry"
+require "date"
 
 #
 # READ FROM CSV
@@ -10,21 +9,21 @@ require "pry"
 
 REPORTS_FILE = File.expand_path("../../db/reports.csv", __FILE__)
 
-reports_table = CSV.read(REPORTS_FILE, headers: true) #.reject{|row| row.field_row? }
+reports_table = CSV.read(REPORTS_FILE, headers: true)
+
+puts "READING #{reports_table.count} REPORTS"
 
 #
 # POPULATE ROWS AS NECESSARY AND APPLICABLE
 #
 
-School.all.first(10).each do |school|
+School.all.each do |school|
   puts school.title_name
 
   (2009..Date.today.year).to_a.each do |year|
-
-    puts " + #{year}"
-
-    #report = Report.find(school: school, class_of: year)
-    #reports << __________ unless report
+    unless Report.find(school: school, class_of: year)
+      reports_table << [school.uuid, year, nil, nil, nil] # needs to be in the same order as existing headers
+    end
   end
 end
 
@@ -32,9 +31,9 @@ end
 # (OVER)WRITE TO CSV
 #
 
-OTHER_FILE = File.expand_path("../../db/reports_1.csv", __FILE__)
+puts "WRITING #{reports_table.count} REPORTS"
 
-CSV.open(OTHER_FILE, "wb") do |csv|
+CSV.open(REPORTS_FILE, "wb") do |csv|
   csv << reports_table.headers
 
   reports_table.each do |row|
