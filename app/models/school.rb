@@ -1,17 +1,22 @@
 require "httparty"
 require "domainatrix"
 require "active_support/core_ext/hash/keys"
+require "fileutils"
 
 class School
   attr_accessor :uuid, :alt_name, :name, :year_founded, :url
 
   def initialize(options)
-    @uuid = options[:uuid]
+    @uuid = options[:uuid].to_i
     @name = options[:name]
     @alt_name = options[:name]
-    @year_founded = options[:year_founded]
+    @year_founded = options[:year_founded].to_i
     @url = options[:url]
   end
+
+  #
+  # READ INFO FROM CSV FILE
+  #
 
   SCHOOLS_FILE = File.expand_path("../../../db/schools.csv", __FILE__)
 
@@ -45,5 +50,24 @@ class School
 
   def short_name
     self.class.duplicate_domains.include?(domain) ? subdomain : domain
+  end
+
+  #
+  # MANAGE FILESYSTEM
+  #
+
+  REPORTS_DIR = File.expand_path("../../../school-hosted/reports", __FILE__)
+
+  def reports_dir
+    File.join(REPORTS_DIR, "#{uuid}-#{short_name}")
+  end
+
+  def gitkeep
+    File.join(reports_dir, ".gitkeep")
+  end
+
+  def make_reports_directory
+    FileUtils.mkdir_p(reports_dir)
+    File.open(gitkeep, "w"){|f| f.write("") }
   end
 end
