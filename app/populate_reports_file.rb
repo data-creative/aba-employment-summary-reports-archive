@@ -2,6 +2,7 @@ require_relative "models/school"
 require_relative "models/report"
 
 require "date"
+require "pry"
 
 #
 # READ FROM CSV
@@ -33,10 +34,12 @@ end
 
 puts "WRITING #{reports_table.count} REPORTS"
 
+sorted_rows = reports_table.sort_by{|row| row.values_at(0,1) } # sort by: (school_uuid x year)
+
 CSV.open(REPORTS_FILE, "wb") do |csv|
   csv << reports_table.headers
 
-  reports_table.each do |row|
-    csv << row
+  sorted_rows.each do |row|
+    csv << row.fields
   end
 end
