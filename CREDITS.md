@@ -13,4 +13,5 @@
 
 ## School Reporting Information
 
-  + [UNT Dallas](https://lawschool.untsystem.edu/about/employment-outcomes)
+  + [UNT Dallas](https://lawschool.untsystem.edu/about/employment-outcomes) is newly-formed, so 2017 will be first reporting year
+  + [Charlotte Law](http://www.charlottelaw.edu/)'s website is unavailable
