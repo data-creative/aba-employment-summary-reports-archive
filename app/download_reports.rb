@@ -1,32 +1,44 @@
 require_relative "models/report"
 
-Report.all.each do |report|
-  puts "#{report.year} #{report.url}"
-
-  report.download #unless File.exist?(report.local_file) # maybe override this condition check using job settings/options
-
-  #if report.url
-  #  # download whatever they are putting up, be it html or pdf or jpg. for the archive. that's the premise of this repo.
-  #  # ehh not sure.
-  #  # maybe only interested in PDFs for now
-  #  binding.pry
-  #  if report.remote_file_format == "pdf"
-  #    report.download unless File.exist?(report.local_file) # maybe override this condition check using job settings/options
-  #  end
-  #end
-
-  #results = {status:nil, errors:[]}
 #
-  #if report.pdf?
-  #  results[:file_type] = "PDF"
+# DOWNLOAD RELEVANT PDF FILES
 #
-  #  if report.standard_format?
-  #    results[:status] = "STANDARD"
-  #    report.download unless File.exist?(report.local_file)
-  #  else
-  #    results[:status] = "NON-STANDARD"
-  #  end
-  #else
-  #  results[:file_type] = "NON-PDF"
-  #end
+
+reports = Report.all
+
+reports.each do |report|
+  puts "#{report.school.short_name.upcase} #{report.year} #{report.url}"
+
+  if report.downloadable?
+    if File.exist?(report.local_file)
+      puts " ... ALREADY DOWNLOADED"
+    else
+      begin
+        report.download  # maybe override this condition check using job settings/options
+        report.downloaded_on = Date.today.to_s
+        puts " ... DOWNLOADED"
+      rescue => e
+        binding.pry
+        report.downloaded_on = "N/A - DOWNLOAD ERROR(S)"
+      end
+    end
+  else
+    report.downloaded_on = "N/A - NOT DOWNLOADABLE"
+    puts " ... NOT DOWNLOADABLE"
+  end
+end
+
+#
+# WRITE METADATA TO CSV
+#
+
+puts "---------------------------------"
+puts "WRITING #{reports.count} REPORTS"
+
+CSV.open(Report::REPORTS_FILE, "wb") do |csv|
+  csv << Report::CSV_HEADERS
+
+  reports.each do |report|
+    csv << report.csv_values
+  end
 end
