@@ -17,6 +17,8 @@ reports.each do |report|
         report.download  # maybe override this condition check using job settings/options
         report.downloaded_on = Date.today.to_s
         puts " ... DOWNLOADED"
+      #rescue OpenURI::HTTPError => e # 404 Not Found
+      #rescue OpenSSL::SSL::SSLError => e # SSL_connect returned=1 errno=0 state=error: certificate verify failed
       rescue => e
         binding.pry
         report.downloaded_on = "N/A - DOWNLOAD ERROR(S)"
