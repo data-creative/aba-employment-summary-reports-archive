@@ -16,4 +16,8 @@ module HasUrl
   def host
     parsed_url.host
   end
+
+  def remote_file_path
+    parsed_url.path.split(".").last
+  end
 end

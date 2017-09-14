@@ -3,7 +3,7 @@ require "csv"
 require "fileutils"
 require "httparty"
 
-require_relative "has_url"
+require_relative "../concerns/has_url"
 
 class School
   include HasUrl
