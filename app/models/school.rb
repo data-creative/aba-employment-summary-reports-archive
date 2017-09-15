@@ -44,7 +44,7 @@ class School
   # MANAGE FILESYSTEM
   #
 
-  REPORTS_DIR = File.expand_path("../../../school-hosted/reports", __FILE__)
+  REPORTS_DIR = File.expand_path("../../../downloads/school-hosted-reports", __FILE__)
 
   def reports_dir
     File.join(REPORTS_DIR, "#{uuid}-#{short_name}")
