@@ -33,3 +33,29 @@ Some CSV files were populated as a result of scraping the ABA's [Schools Page](h
 #### `api/`
 
 Contains JSON files for client application consumption.
+
+## Contributing
+
+Install Ruby and Bundler.
+
+Clone the repo:
+
+```shell
+git clone git@github.com:s2t2/aba-employment-summary-reports-archive.git
+cd aba-employment-summary-reports-archive/
+```
+
+Install package dependencies:
+
+```shell
+bundle install
+```
+
+Finally, update the repo contents by executing the following processes in sequential order:
+
+  1. Run `ruby app/populate_reports_file.rb` to ensure there is a row for each possible report (one for each school for each eligible reporting year).
+  2. Find new report urls or investigate "not found" reports, and update the reports file.
+  2. Run `ruby app/make_report_dirs.rb` to provide a place for reports to be downloaded.
+  2. Run `ruby app/download_reports.rb` to download all "found" reports.
+
+## [License](/LICENSE)
